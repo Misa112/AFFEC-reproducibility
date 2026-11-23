@@ -1,0 +1,18 @@
+{
+  "preceived_valance": {
+    "Model": "FASTAI",
+    "High": "0.2080 ± 0.0290",
+    "Medium": "0.4031 ± 0.0095",
+    "Low": "0.5510 ± 0.0153",
+    "Macro Avg": "0.3874 ± 0.0103",
+    "Accuracy": "0.4566 ± 0.0095"
+  },
+  "felt_arousal": {
+    "Model": "FASTAI",
+    "High": "0.2299 ± 0.0571",
+    "Medium": "0.4562 ± 0.0225",
+    "Low": "0.6309 ± 0.0311",
+    "Macro Avg": "0.4390 ± 0.0345",
+    "Accuracy": "0.5209 ± 0.0320"
+  }
+}

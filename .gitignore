@@ -19,3 +19,9 @@ __pycache__/
 
 # Virtual environment
 .venv/
+
+#only for reproduction
+reproduction/results/au_features_*.csv
+
+
+AutogluonModels/
